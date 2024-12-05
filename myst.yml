@@ -24,5 +24,5 @@ site:
   template: book-theme
   # Modify this section with the logos of your choice
   options:
-    favicon: https://hackthackathon.github.io/images/navbar-logo.png
-    logo: https://hackthackathon.github.io/images/navbar-logo.png
+    favicon: https://www.neiu.edu/sites/neiu.edu/files/migrated-brand-body/documents/rllenon/neiu_wordmark_color.png
+    logo: https://www.neiu.edu/sites/neiu.edu/files/migrated-brand-body/documents/rllenon/neiu_wordmark_color.png
