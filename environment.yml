@@ -1,0 +1,7 @@
+name: neiu-data-science-workshop-2025-dev
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - mystmd
+  - cookiecutter
