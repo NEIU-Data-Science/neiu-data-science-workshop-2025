@@ -30,9 +30,6 @@ Please list your instructors and mentors below!
 | 12:00 PM - 01:00 PM | LUNCH BREAK                                              |                  |
 | 01:00 PM - 01:15 PM | Intro to Breakouts                                       |                  |
 | 01:15 PM - 03:00 PM | Domain Breakouts                                         |                  |
-| 03:00 PM - 03:15 PM | Coffee Break                                             |                  |
-| 03:15 PM - 04:00 PM | Domain Breakouts                                         |                  |
-| 04:00 PM - 04:30 PM | Domain Breakout Report Outs                              |                  |
 
 ## Saturday 2025-01-25
 
@@ -42,8 +39,5 @@ Please list your instructors and mentors below!
 | 10:00 AM - 11:00 AM | Intro to AI/Machine Learning with Python                 |                  |
 | 11:00 AM - 12:00 PM | Intro to Data Science Platforms/Infrstructure            |  Max Grover                |
 | 12:00 PM - 01:00 PM | LUNCH BREAK                                              |                  |
-| 01:00 PM - 03:00 PM | Domain Breakouts                                         |                  |
-| 03:00 PM - 03:15 PM | Coffee Break                                             |                  |
-| 03:15 PM - 04:00 PM | Breakout Presentations                                   |                  |
-| 04:00 PM - 04:30 PM | Wrap up and Next Steps                                   |                  |
+| 01:00 PM - 03:00 PM | Domain Breakout Presentations                            |                  |
 
