@@ -6,7 +6,7 @@
 Data science workshop at Northeastern Illinois University in January 2025
 
 
-## Instructors and Mentors
+## Instructors and Facilitators
 
 Please list your instructors and mentors below!
 
@@ -15,8 +15,11 @@ Please list your instructors and mentors below!
 | Greg Anderson | Northeastern Illinois University | [Faculty Page](https://www.neiu.edu/faculty/gregory-w-anderson) |
 | Emina Stojkovic | Northeastern Illinois University | [Faculty Page](https://www.neiu.edu/faculty/emina-stojkovic) |
 | Xiwei Wang | Northeastern Illinois University | [Faculty Page](https://www.neiu.edu/faculty/xiwei-wang) |
-| Christopher Henry | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/christopher-s-henry) |
-| Max Grover | Argonne National Laboratory | [Github](https://github.com/mgrover1) |
+| Joe Hibdon | Northeastern Illinois University | [Faculty Page](https://www.neiu.edu/faculty/joseph-hibdon) |
+| Hardik Marfatia | Northeastern Illinois University | [Faculty Page](https://www.neiu.edu/faculty/hardik-marfatia) |
+| Aaron Schirmer | Northeastern Illinois University | [Faculty Page](https://www.neiu.edu/faculty/aaron-schirmer) |
+| Jose Pedro Lopes Faria | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/jose-pedro-lopes-faria) |
+| Max Grover | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/maxwell-grover) |
 
 
 ## Schedule
