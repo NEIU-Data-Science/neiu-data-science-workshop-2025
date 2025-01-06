@@ -38,7 +38,7 @@ Please list your instructors and mentors below!
 | :---:               |    :----:                                                |    :---:         |
 | 09:00 AM - 10:00 AM | Breakfast                                                |                  |
 | 10:00 AM - 11:00 AM | Intro to AI/Machine Learning with Python                 |                  |
-| 11:00 AM - 12:00 PM | Intro to Data Science Platforms/Infrstructure            |  Max Grover                |
+| 11:00 AM - 12:00 PM | Intro to Data Science Platforms/Infrstructure            |  Max Grover      |
 | 12:00 PM - 01:00 PM | LUNCH BREAK                                              |                  |
-| 01:00 PM - 03:00 PM | Domain Breakout Presentations                            |                  |
+| 01:00 PM - 03:00 PM | Domain Breakouts                                         |                  |
 
