@@ -18,8 +18,10 @@ Please list your instructors and mentors below!
 | Joe Hibdon | Northeastern Illinois University | [Faculty Page](https://www.neiu.edu/faculty/joseph-hibdon) |
 | Hardik Marfatia | Northeastern Illinois University | [Faculty Page](https://www.neiu.edu/faculty/hardik-marfatia) |
 | Aaron Schirmer | Northeastern Illinois University | [Faculty Page](https://www.neiu.edu/faculty/aaron-schirmer) |
-| Jose Pedro Lopes Faria | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/jose-pedro-lopes-faria) |
+| Jose P. Faria | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/jose-pedro-lopes-faria) |
+| Janaka N. Edirisinghe | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/janaka-n-edirisinghe) |
 | Max Grover | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/maxwell-grover) |
+
 
 
 ## Schedule
