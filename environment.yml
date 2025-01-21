@@ -5,3 +5,7 @@ dependencies:
   - python=3.11
   - mystmd
   - cookiecutter
+  - pandas
+  - seaborn
+  - matplotlib.pyplot
+  - sklearn.manifold
