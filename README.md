@@ -16,6 +16,7 @@ Please list your instructors and mentors below!
 | Xiwei Wang | Northeastern Illinois University | [Faculty Page](https://www.neiu.edu/faculty/xiwei-wang) |
 | Christopher Henry | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/christopher-s-henry) |
 | Max Grover | Argonne National Laboratory | [Github](https://github.com/mgrover1) |
+| Janaka N. Edirisinghe | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/janaka-n-edirisinghe) |
 
 
 ## Schedule
