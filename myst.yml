@@ -12,6 +12,10 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
+    - title: Tutorials
+      children:
+        - file: tutorials/pandas.ipynb
+        - file: tutorials/data-wrangling-basics.ipynb
     - title: Projects
       children:
         - pattern: 'projects/project-*'
