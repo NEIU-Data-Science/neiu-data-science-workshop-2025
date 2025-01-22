@@ -10,6 +10,10 @@ dependencies:
   - matplotlib
   - scikit-learn
   - jupyterlab
+  - pythia-datasets
+  - orange-base-widget
+  - orange-canvas-core
+  - orange3
   - pip
   - pip:
     - sage-data-client
