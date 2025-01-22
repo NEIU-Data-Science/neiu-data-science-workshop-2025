@@ -12,11 +12,6 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
-    - title: Organizing Preparation
-      children:
-        - file: organizers/getting-started.md
-        - file: organizers/organizing-checklist.md
-        - file: organizers/survey-template.md
     - title: Projects
       children:
         - pattern: 'projects/project-*'
@@ -38,5 +33,5 @@ site:
     favicon: https://www.neiu.edu/sites/neiu.edu/files/migrated-brand-body/documents/rllenon/neiu_wordmark_color.png
     logo: https://www.neiu.edu/sites/neiu.edu/files/migrated-brand-body/documents/rllenon/neiu_wordmark_color.png
   actions:
-    - title: Launch Environment
+    - title: Launch Notebooks
       url: https://binder.projectpythia.org/v2/gh/NEIU-Data-Science/neiu-data-science-workshop-2025/main
