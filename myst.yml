@@ -36,5 +36,5 @@ site:
     favicon: https://www.neiu.edu/sites/neiu.edu/files/migrated-brand-body/documents/rllenon/neiu_wordmark_color.png
     logo: https://www.neiu.edu/sites/neiu.edu/files/migrated-brand-body/documents/rllenon/neiu_wordmark_color.png
   actions:
-    - title: Launch Environment
+    - title: Launch Notebooks
       url: https://binder.projectpythia.org/v2/gh/NEIU-Data-Science/neiu-data-science-workshop-2025/main
