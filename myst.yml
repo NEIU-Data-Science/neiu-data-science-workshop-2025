@@ -30,6 +30,10 @@ project:
             - file: breakouts/KBase/02_tsne_clustering_analysis.ipynb
             - file: breakouts/KBase/03_Differential_Expression_Analysis.ipynb
             - file: breakouts/KBase/04_Abundance_Analysis_Script.ipynb
+  jupyter:
+    binder:
+      repo: NEIU-Data-Science/neiu-data-science-workshop-2025
+      url: https://binder.projectpythia.org/
 site:
   template: book-theme
   # Modify this section with the logos of your choice
