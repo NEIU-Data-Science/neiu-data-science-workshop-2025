@@ -4,7 +4,7 @@ using *Orange*
 
 ## Prerequisites
  - Download and Install [Orange](https://orangedatamining.com/download/)
- - Also, download the [Diabetes Dataset](https://github.com/NEIU-Data-Science/neiu-data-science-workshop-2025/breakouts/ai-ml/diabetes_012_health_indicators_BRFSS2015.csv)
+ - Also, download the [Diabetes Dataset](https://github.com/NEIU-Data-Science/neiu-data-science-workshop-2025/blob/main/breakouts/ai-ml/diabetes_012_health_indicators_BRFSS2015.csv)
 
 ## Objectives
 At the end of the session, participants should be able to:
