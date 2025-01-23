@@ -16,6 +16,7 @@ project:
       children:
         - file: tutorials/pandas.ipynb
         - file: tutorials/data-wrangling-basics.ipynb
+        - file: tutorials/introduction_to_machine_learning.ipynb
     - title: Projects
       children:
         - pattern: 'projects/project-*'
@@ -30,6 +31,10 @@ project:
             - file: breakouts/KBase/02_tsne_clustering_analysis.ipynb
             - file: breakouts/KBase/03_Differential_Expression_Analysis.ipynb
             - file: breakouts/KBase/04_Abundance_Analysis_Script.ipynb
+        - title: AI/ML
+          children:
+            - file: breakouts/ai-ml/uas-ml.ipynb
+            - file: breakouts/ai-ml/ml-diabetesdatasetclustering.ipynb
   jupyter:
     binder:
       repo: NEIU-Data-Science/neiu-data-science-workshop-2025
