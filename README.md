@@ -30,20 +30,20 @@ Please list your instructors and mentors below!
 
 | Time                | Topic                                                    | Presenter        |
 | :---:               |    :----:                                                |    :---:         |
-| 09:00 AM - 10:00 AM | Check in/Breakfast                                       |                  |
-| 10:00 AM - 11:00 AM | Intro to Data Science with Python                        |   Max Grover               |
-| 11:00 AM - 12:00 PM | Hands On with Real Data: Data Cleaning with Python       |                  |
-| 12:00 PM - 01:00 PM | LUNCH BREAK                                              |                  |
-| 01:00 PM - 01:15 PM | Intro to Breakouts                                       |                  |
-| 01:15 PM - 03:00 PM | Domain Breakouts                                         |                  |
+| 09:00 AM - 10:00 AM | Check in/Breakfast (Room 360)                                     |                  |
+| 10:00 AM - 11:00 AM | Intro to Data Science with Python (Room 360)                       |   Max Grover               |
+| 11:00 AM - 12:00 PM | Hands On with Real Data: Data Cleaning with Python (Room 360)        |                  |
+| 12:00 PM - 01:00 PM | LUNCH BREAK (Room 325)                                              |                  |
+| 01:00 PM - 01:15 PM | Intro to Breakouts (Room 360)                                       |                  |
+| 01:15 PM - 03:00 PM | Domain Breakouts (Breakout Rooms)                                         |                  |
 
 ## Saturday 2025-01-25
 
 | Time                | Topic                                                    | Presenter        |
 | :---:               |    :----:                                                |    :---:         |
-| 09:00 AM - 10:00 AM | Breakfast                                                |                  |
-| 10:00 AM - 11:00 AM | Intro to AI/Machine Learning with Python                 |                  |
-| 11:00 AM - 12:00 PM | Intro to Data Science Platforms/Infrstructure            |  Max Grover      |
-| 12:00 PM - 01:00 PM | LUNCH BREAK                                              |                  |
-| 01:00 PM - 03:00 PM | Domain Breakouts                                         |                  |
+| 09:00 AM - 10:00 AM | Breakfast (Room 360)                                     |                  |
+| 10:00 AM - 11:00 AM | Intro to AI/Machine Learning with Python (Room 360)      |                  |
+| 11:00 AM - 12:00 PM | Intro to Data Science Platforms/Infrstructure (Room 360) |  Max Grover      |
+| 12:00 PM - 01:00 PM | LUNCH BREAK (Room 360)                                   |                  |
+| 01:00 PM - 03:00 PM | Domain Breakouts (Breakout Rooms)                        |                  |
 
