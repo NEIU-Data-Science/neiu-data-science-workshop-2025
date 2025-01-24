@@ -12,6 +12,7 @@ dependencies:
   - jupyterlab
   - pythia-datasets
   - imbalanced-learn
+  - openai
   - pip
   - pip:
     - sage-data-client
