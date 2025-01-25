@@ -45,6 +45,7 @@ project:
           children:
             - file: breakouts/ai-ml/uas-ml.ipynb
             - file: breakouts/ai-ml/ml-diabetesdatasetclustering.ipynb
+            - file: breakouts/ai-ml/chatGPT.ipynb
   jupyter:
     binder:
       repo: NEIU-Data-Science/neiu-data-science-workshop-2025
