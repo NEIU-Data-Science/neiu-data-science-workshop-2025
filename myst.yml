@@ -17,6 +17,7 @@ project:
         - file: tutorials/pandas.ipynb
         - file: tutorials/data-wrangling-basics.ipynb
         - file: tutorials/introduction_to_machine_learning.ipynb
+        - file: tutorials/platforms.md
     - title: Projects
       children:
         - pattern: 'projects/project-*'
