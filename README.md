@@ -21,7 +21,7 @@ Please list your instructors and mentors below!
 | Jose P. Faria | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/jose-pedro-lopes-faria) |
 | Janaka N. Edirisinghe | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/janaka-n-edirisinghe) |
 | Max Grover | Argonne National Laboratory | [Staff Page](https://www.anl.gov/profile/maxwell-grover) |
-
+| Francisco Iacobelli| Loyola University Chicago | [Faculty Page](http://fid.cl) |
 
 
 ## Schedule
