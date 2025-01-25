@@ -8,6 +8,15 @@ project:
     - name: Max Grover
       orcid: 0000-0002-0370-8974
       github: mgrover1
+    - name: Greg Anderson
+    - name: Emina Stojkovic
+    - name: Xiwei Wang
+    - name: Joe Hibdon
+    - name: Hardik Marfatia
+    - name: Aaron Schirmer
+    - name: Jose P. Faria
+    - name: Janaka N. Edirisinghe
+    - name: Francisco Iacobelli
   github: https://github.com/mgrover1/neiu-data-science-workshop-2025
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
